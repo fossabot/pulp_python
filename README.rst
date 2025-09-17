@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fpulp_python.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fpulp_python?ref=badge_shield)
+
 pulp_python
 ===========
 
@@ -10,3 +12,7 @@ pulp_python
 A Pulp plugin to support Python packages.
 
 For more information, please see http://www.pulpproject.org.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fpulp_python.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fpulp_python?ref=badge_large)
